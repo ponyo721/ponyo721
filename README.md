@@ -4,6 +4,7 @@ This is the place where I opensource stuff and break things 💻
 - 🔭  I'm currently a macOS, iOS Native Application Developer 🧐
 - 🌱  I'm interested in Flutter
 - ⚡️  Fun fact: I :heart: Animals
+- velog address : https://velog.io/@ponyo721/posts
 - Previous github address : https://github.com/rhehd721
 
 **Languages and Tools**  
